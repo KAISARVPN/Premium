@@ -66,23 +66,6 @@ Saat script berjalan, Anda akan diminta memasukkan:
 
 ---
 
-## 📱 ZiVPN Manager App
-
-Kelola server dan user Anda dengan mudah menggunakan aplikasi Android resmi **ZiVPN Manager**.
-
-[**Download ZiVPN Manager (APK)**](https://github.com/AutoFTbot/ZiVPN/raw/main/App/app-release.apk)
-
-### Screenshots
-<p float="left">
-  <img src="https://github.com/AutoFTbot/ZiVPN/raw/main/App/photo_2025-12-18_20-25-53.jpg" width="200" />
-  <img src="https://github.com/AutoFTbot/ZiVPN/raw/main/App/photo_2025-12-18_20-26-05.jpg" width="200" />
-  <img src="https://github.com/AutoFTbot/ZiVPN/raw/main/App/photo_2025-12-18_20-26-11.jpg" width="200" />
-  <img src="https://github.com/AutoFTbot/ZiVPN/raw/main/App/photo_2025-12-18_20-26-15.jpg" width="200" />
-  <img src="https://github.com/AutoFTbot/ZiVPN/raw/main/App/photo_2025-12-18_20-26-21.jpg" width="200" />
-</p>
-
----
-
 ## 🔌 API Documentation
 
 API berjalan di port `8080`. Gunakan **API Key** pada header `X-API-Key`.
