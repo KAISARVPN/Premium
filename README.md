@@ -159,5 +159,5 @@ Jika Anda melihat log seperti:
 Untuk menghapus ZiVPN, API, Bot, dan semua konfigurasi:
 
 ```bash
-wget -q https://raw.githubusercontent.com/AutoFTbot/ZiVPN/main/uninstall.sh && chmod +x uninstall.sh && ./uninstall.sh
+wget -q https://raw.githubusercontent.com/KAISARVPN/Premium/main/uninstall.sh && chmod +x uninstall.sh && ./uninstall.sh
 ```
